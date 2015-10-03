@@ -1,6 +1,7 @@
 # Osu-Song-Extractor
 
 License:
+
 Osu Song Extractor! Extract beatmap songs from your Osu! Songs folder.
 Copyright © 2015 Tristen Horton
 
@@ -16,7 +17,10 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see http://www.gnu.org/licenses/
 
+
+
 Instructions:
+
 1. Open the extractor.
 2. Browse to your Osu! Songs folder. The Songs folder is, by default,
 	found within your Osu! installation folder.
